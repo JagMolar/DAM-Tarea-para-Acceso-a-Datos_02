@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Empleados>
+    <empleado>
+        <codigo>1</codigo>
+        <nombre>Antonio Perez</nombre>
+        <direccion>Av Principal 9</direccion>
+        <salario>985.12</salario>
+        <comision>11.0</comision>
+    </empleado>
+    <empleado>
+        <codigo>2</codigo>
+        <nombre>Manuel Perez</nombre>
+        <direccion>Av Principal 9</direccion>
+        <salario>1102.23</salario>
+        <comision>15.0</comision>
+    </empleado>
+    <empleado>
+        <codigo>3</codigo>
+        <nombre>Ana Perez</nombre>
+        <direccion>Plaza Ayuntamiento 8</direccion>
+        <salario>985.12</salario>
+        <comision>11.0</comision>
+    </empleado>
+    <empleado>
+        <codigo>4</codigo>
+        <nombre>María Perez</nombre>
+        <direccion>C Los Obeliscos 5</direccion>
+        <salario>1102.23</salario>
+        <comision>15.0</comision>
+    </empleado>
+    <empleado>
+        <codigo>5</codigo>
+        <nombre>Carla Perez</nombre>
+        <direccion>Av Mar 21</direccion>
+        <salario>1114.89</salario>
+        <comision>5.0</comision>
+    </empleado>
+</Empleados>
